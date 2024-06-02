@@ -1,0 +1,21 @@
+/* INÍCIO DAS CONFIGURAÇÕES GERIAS DA PÁGINA */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid red; */
+}
+
+#corpo-pagina-geral{
+    align-items: center;
+    background: #000;
+}
+
+#corpo-conteudo{
+    background: #000;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+/* FIM DAS CONFIGURAÇÕES GERIAS DA PÁGINA */
